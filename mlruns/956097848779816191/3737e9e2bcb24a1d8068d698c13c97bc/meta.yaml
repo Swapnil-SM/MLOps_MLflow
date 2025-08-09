@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/3737e9e2bcb24a1d8068d698c13c97bc/artifacts
+end_time: 1754724067742
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: 3737e9e2bcb24a1d8068d698c13c97bc
+run_name: loud-fowl-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724067597
+status: 3
+tags: []
+user_id: mishr

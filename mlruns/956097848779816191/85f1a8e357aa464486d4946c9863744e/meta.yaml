@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/85f1a8e357aa464486d4946c9863744e/artifacts
+end_time: 1754724068661
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: 85f1a8e357aa464486d4946c9863744e
+run_name: bemused-bug-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724068509
+status: 3
+tags: []
+user_id: mishr

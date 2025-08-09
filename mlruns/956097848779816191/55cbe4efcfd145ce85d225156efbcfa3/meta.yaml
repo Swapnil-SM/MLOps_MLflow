@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/55cbe4efcfd145ce85d225156efbcfa3/artifacts
+end_time: 1754724082346
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: 55cbe4efcfd145ce85d225156efbcfa3
+run_name: resilient-stag-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724053452
+status: 3
+tags: []
+user_id: mishr

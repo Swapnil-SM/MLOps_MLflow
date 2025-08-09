@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/ec819eb8b2784793aa632ced43c79cff/artifacts
+end_time: 1754724068779
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: ec819eb8b2784793aa632ced43c79cff
+run_name: agreeable-hawk-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724068674
+status: 3
+tags: []
+user_id: mishr

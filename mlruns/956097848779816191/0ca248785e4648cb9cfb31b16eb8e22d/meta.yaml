@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/0ca248785e4648cb9cfb31b16eb8e22d/artifacts
+end_time: 1754724067888
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: 0ca248785e4648cb9cfb31b16eb8e22d
+run_name: adaptable-gnu-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724067757
+status: 3
+tags: []
+user_id: mishr

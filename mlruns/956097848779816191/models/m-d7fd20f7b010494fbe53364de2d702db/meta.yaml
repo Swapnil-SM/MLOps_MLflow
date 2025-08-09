@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/models/m-d7fd20f7b010494fbe53364de2d702db/artifacts
+creation_timestamp: 1754724069500
+experiment_id: '956097848779816191'
+last_updated_timestamp: 1754724082314
+model_id: m-d7fd20f7b010494fbe53364de2d702db
+model_type: null
+name: random_forest
+source_run_id: 55cbe4efcfd145ce85d225156efbcfa3
+status: 2
+status_message: null

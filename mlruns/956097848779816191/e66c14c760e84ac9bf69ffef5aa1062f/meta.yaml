@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/e66c14c760e84ac9bf69ffef5aa1062f/artifacts
+end_time: 1754724068915
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: e66c14c760e84ac9bf69ffef5aa1062f
+run_name: respected-crane-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724068793
+status: 3
+tags: []
+user_id: mishr

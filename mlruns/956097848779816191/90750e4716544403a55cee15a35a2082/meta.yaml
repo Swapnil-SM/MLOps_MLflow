@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/90750e4716544403a55cee15a35a2082/artifacts
+end_time: 1754724068193
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: 90750e4716544403a55cee15a35a2082
+run_name: zealous-eel-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724068059
+status: 3
+tags: []
+user_id: mishr

@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-#code to connect to DagsHub the link and the code is copied in the remote->experiments->Mlflow UI option
+#code to connect to DagsHub (the link and the code is copied in the remote->experiments->Mlflow UI option
 
 import dagshub
 dagshub.init(repo_owner='Swapnil-SM', repo_name='MLOps_MLflow', mlflow=True)

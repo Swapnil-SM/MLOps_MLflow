@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/9b426b3e6169403a8caff9f8753e6829/artifacts
+end_time: 1754723157578
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: 9b426b3e6169403a8caff9f8753e6829
+run_name: thoughtful-crow-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754723142403
+status: 3
+tags: []
+user_id: mishr

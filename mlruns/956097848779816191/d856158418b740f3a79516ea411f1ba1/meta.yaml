@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/d856158418b740f3a79516ea411f1ba1/artifacts
+end_time: 1754724068344
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: d856158418b740f3a79516ea411f1ba1
+run_name: delightful-ram-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724068208
+status: 3
+tags: []
+user_id: mishr

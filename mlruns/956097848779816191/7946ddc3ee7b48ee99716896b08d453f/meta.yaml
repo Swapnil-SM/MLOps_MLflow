@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/956097848779816191/7946ddc3ee7b48ee99716896b08d453f/artifacts
+end_time: 1754724069180
+entry_point_name: ''
+experiment_id: '956097848779816191'
+lifecycle_stage: active
+run_id: 7946ddc3ee7b48ee99716896b08d453f
+run_name: industrious-fly-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754724069047
+status: 3
+tags: []
+user_id: mishr
