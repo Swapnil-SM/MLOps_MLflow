@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/462926253419941601/2675cd7bb0cd41a5834881d27381c9bd/artifacts
+end_time: 1754720650526
+entry_point_name: ''
+experiment_id: '462926253419941601'
+lifecycle_stage: active
+run_id: 2675cd7bb0cd41a5834881d27381c9bd
+run_name: kindly-dove-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754720641630
+status: 3
+tags: []
+user_id: mishr

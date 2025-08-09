@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/134548733024489899/d2fe3ab46d7f43fa95f845d33ab2f755/artifacts
+end_time: 1754683204156
+entry_point_name: ''
+experiment_id: '134548733024489899'
+lifecycle_stage: active
+run_id: d2fe3ab46d7f43fa95f845d33ab2f755
+run_name: fun-mink-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754683195684
+status: 3
+tags: []
+user_id: mishr

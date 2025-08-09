@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/134548733024489899/a7296ba3dcf64bebaaf234aecd0616f4/artifacts
+end_time: 1754593175308
+entry_point_name: ''
+experiment_id: '134548733024489899'
+lifecycle_stage: active
+run_id: a7296ba3dcf64bebaaf234aecd0616f4
+run_name: dapper-loon-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754593147957
+status: 3
+tags: []
+user_id: mishr

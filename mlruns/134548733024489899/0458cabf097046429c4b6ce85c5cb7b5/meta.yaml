@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/134548733024489899/0458cabf097046429c4b6ce85c5cb7b5/artifacts
+end_time: 1754664002336
+entry_point_name: ''
+experiment_id: '134548733024489899'
+lifecycle_stage: active
+run_id: 0458cabf097046429c4b6ce85c5cb7b5
+run_name: valuable-owl-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754663971749
+status: 3
+tags: []
+user_id: mishr

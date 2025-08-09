@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e80346e6daee4c47b0a98ebf14c47936/artifacts
+end_time: 1754592574849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e80346e6daee4c47b0a98ebf14c47936
+run_name: chill-sow-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754592573490
+status: 4
+tags: []
+user_id: mishr

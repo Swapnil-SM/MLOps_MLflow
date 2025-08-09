@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ee85947fd3eb44438dd76885b73e1adb/artifacts
+end_time: 1754592543920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee85947fd3eb44438dd76885b73e1adb
+run_name: magnificent-koi-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754592541388
+status: 4
+tags: []
+user_id: mishr

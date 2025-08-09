@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mishr/OneDrive/Desktop/MLOps/MLOps_MLflow/mlruns/134548733024489899/58358a360acd4a2491e100e9b095ee99/artifacts
+end_time: 1754664073903
+entry_point_name: ''
+experiment_id: '134548733024489899'
+lifecycle_stage: active
+run_id: 58358a360acd4a2491e100e9b095ee99
+run_name: unique-sloth-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754664056868
+status: 3
+tags: []
+user_id: mishr
